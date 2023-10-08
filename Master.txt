@@ -1,4 +1,4 @@
 
 <Version: 1.7>
-\data\Map023.json https://raw.githubusercontent.com/Ender2412/geam-updates/main/Map023.json
+/RPGGEAM/ https://enderlp.itch.io/rpggeam/download/jxh7_IG_Ohoaq_Wfw_XDBo6lWovyvuBm5_cOjT9O
 <End of Version>
