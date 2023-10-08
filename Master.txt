@@ -1,4 +1,4 @@
 
 <Version: 1.7>
-\data\Map023 https://raw.githubusercontent.com/Ender2412/geam-updates/main/Map023.json
+\data\Map023.json https://raw.githubusercontent.com/Ender2412/geam-updates/main/Map023.json
 <End of Version>
